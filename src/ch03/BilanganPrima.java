@@ -1,3 +1,4 @@
+package ch03;
 import java.util.Scanner;
 public class BilanganPrima {
     public static void main(String args[])
@@ -5,7 +6,7 @@ public class BilanganPrima {
         Scanner input = new Scanner(System.in);
         int bil, cek=0;
         
-        System.out.println("PROGRAM JAVA MENENTUKAN BILANGAN PRIMA ATAU BUKAN");
+        System.out.println("PROGRAM MENENTUKAN BILANGAN PRIMA ATAU BUKAN");
         System.out.print("Masukan Angka : ");
         bil=input.nextInt();
    

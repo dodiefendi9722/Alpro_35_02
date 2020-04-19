@@ -1,3 +1,4 @@
+package ch03;
 public class nilaiTertinggiXYZ {
  public static void main(String[] args) {
      int x = 7;
