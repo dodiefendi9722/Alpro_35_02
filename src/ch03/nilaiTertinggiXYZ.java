@@ -1,9 +1,9 @@
 package ch03;
 public class nilaiTertinggiXYZ {
  public static void main(String[] args) {
-     int x = 7;
-     int y = 6;
-     int z = 8;
+     int x = 20;
+     int y = 55;
+     int z = 14;
 
      System.out.println("nilai x = " + x);
      System.out.println("nilai y = " + y);

@@ -1,8 +1,8 @@
 package ch03;
 public class nilaiTertinggiXY {
  public static void main(String[] args) {
-     int x = 7;
-     int y = 6;
+     int x = 100;
+     int y = 77;
 
      System.out.println("nilai x = " + x);
      System.out.println("nilai y = " + y);
